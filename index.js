@@ -87,4 +87,4 @@ class ChangingWord
     }      
 }
 
-nodule.exports=ChangingWord
+module.exports=ChangingWord
