@@ -1,5 +1,5 @@
 class ChangingWord
-{
+{    
     
     constructor(targetId=null,list=[],seconds)
     {
