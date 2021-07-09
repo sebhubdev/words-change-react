@@ -1,1 +1,2 @@
-nothing yet
+
+ChangingWord(idElem,wordsList,timeTransition)
