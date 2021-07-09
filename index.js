@@ -88,4 +88,4 @@ class ChangingWord
     }      
 }
 
-export default ChangingWord
+nodule.exports=ChangingWord
