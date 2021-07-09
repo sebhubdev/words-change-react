@@ -1,5 +1,6 @@
 class ChangingWord
 {
+    
     constructor(targetId=null,list=[],seconds)
     {
         this.list=list
